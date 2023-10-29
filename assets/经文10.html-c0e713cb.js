@@ -1,1 +1,0 @@
-import{_ as o,r as n,o as t,c,a as r,d as s}from"./app-5b00d7db.js";const _={},a=s("strong",null," 【佛告须菩提：「于意云何？如来昔在然灯佛所，得阿耨多罗三藐三菩提法不？」须菩提言：「不也！世尊！如来在然灯佛所，于法实无所得阿耨多罗三藐三菩提。」】 ",-1);function d(l,i){const e=n("MindMapPdfViewer");return t(),c("div",null,[a,r(e)])}const m=o(_,[["render",d],["__file","经文10.html.vue"]]);export{m as default};
