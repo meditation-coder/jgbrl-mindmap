@@ -1,0 +1,1 @@
+import{_ as o,r as n,o as t,c,a as r,d as s}from"./app-5b00d7db.js";const _={},a=s("strong",null," 【「须菩提！譬如有人，身如须弥山王。须菩提！于意云何？是身为大不？」须菩提言：「甚大！世尊！何以故？佛说非身，是名大身。彼身非身，是名大身。」】 ",-1);function d(l,i){const e=n("MindMapPdfViewer");return t(),c("div",null,[a,r(e)])}const m=o(_,[["render",d],["__file","经文12.html.vue"]]);export{m as default};

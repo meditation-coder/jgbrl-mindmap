@@ -1,0 +1,1 @@
+import{_ as o,r as n,o as t,c,a as r,d as s}from"./app-5b00d7db.js";const _={},a=s("strong",null," 【佛说是经已，长老须菩提，及诸比丘比丘尼、优婆塞优婆夷、菩萨摩诃萨、一切世间天人阿修罗乾闼婆等，闻佛所说，皆大欢喜，信受奉行。】 ",-1);function d(l,i){const e=n("MindMapPdfViewer");return t(),c("div",null,[a,r(e)])}const m=o(_,[["render",d],["__file","经文35.html.vue"]]);export{m as default};

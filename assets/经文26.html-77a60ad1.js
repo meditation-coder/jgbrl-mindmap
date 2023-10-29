@@ -1,1 +1,0 @@
-import{_ as o,r as n,o as t,c,a as r,d as s}from"./app-127aea59.js";const _={},a=s("strong",null," 【佛言：「须菩提！于意云何？汝谓如来作是念：我当有所说法耶？须菩提！莫作是念。何以故？若人言如来有所说法，则为谤佛，不能解我所说故。何以故？须菩提！如来说法说法者，无法可说，是名说法。」】 ",-1);function d(l,i){const e=n("MindMapPdfViewer");return t(),c("div",null,[a,r(e)])}const m=o(_,[["render",d],["__file","经文26.html.vue"]]);export{m as default};

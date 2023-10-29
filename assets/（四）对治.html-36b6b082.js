@@ -1,0 +1,1 @@
+import{_,r as n,o,c as t,a as c}from"./app-5b00d7db.js";const r={};function a(s,l){const e=n("MindMapPdfViewer");return o(),t("div",null,[c(e)])}const f=_(r,[["render",a],["__file","（四）对治.html.vue"]]);export{f as default};
