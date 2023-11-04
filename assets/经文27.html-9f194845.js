@@ -1,1 +1,0 @@
-import{_ as o,r as n,o as t,c,a as r,d as s}from"./app-fd1e5c22.js";const _={},a=s("strong",null," 【尔时，慧命须菩提白佛言：「世尊！颇有众生，于未来世，闻说是法，生信心不？」佛言：「须菩提！彼非众生，非不众生。何以故？须菩提！众生众生者，如来说非众生，是名众生。」】 ",-1);function d(l,i){const e=n("MindMapPdfViewer");return t(),c("div",null,[a,r(e)])}const m=o(_,[["render",d],["__file","经文27.html.vue"]]);export{m as default};
