@@ -1,1 +1,0 @@
-import{_ as o,r as n,o as t,c,a as r,d as s}from"./app-1a830839.js";const _={},a=s("strong",null," 【「须菩提！于意云何？三千大千世界所有微尘，是为多不？」须菩提言：「彼微尘甚多，世尊！」「须菩提！是诸微尘，如来说非微尘，是名微尘。如来说世界，非世界，是名世界。」】 ",-1);function d(l,i){const e=n("MindMapPdfViewer");return t(),c("div",null,[a,r(e)])}const m=o(_,[["render",d],["__file","经文14.html.vue"]]);export{m as default};
