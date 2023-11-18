@@ -1,1 +1,0 @@
-import{_ as o,r as n,o as t,c,a as r,d as s}from"./app-93741356.js";const _={},a=s("strong",null," 【「须菩提！若菩萨作是言：『我庄严佛国土。』是不名菩萨。何以故？如来说庄严佛土庄严佛土者，即非庄严，是名庄严佛国土。须菩提！若菩萨通达无我、无我法者，如来说名真是菩萨菩萨。】 ",-1);function d(l,i){const e=n("MindMapPdfViewer");return t(),c("div",null,[a,r(e)])}const m=o(_,[["render",d],["__file","经文22.html.vue"]]);export{m as default};

@@ -1,1 +1,0 @@
-import{_ as o,r as n,o as t,c,a as r,d as s}from"./app-93741356.js";const _={},a=s("strong",null," 【佛言：「须菩提！于意云何？可以三十二大人相见如来不？」须菩提言：「不也！世尊！何以故？如来说三十二大人相，即是非相，是名三十二大人相。」】 ",-1);function d(l,i){const e=n("MindMapPdfViewer");return t(),c("div",null,[a,r(e)])}const m=o(_,[["render",d],["__file","经文15.html.vue"]]);export{m as default};
