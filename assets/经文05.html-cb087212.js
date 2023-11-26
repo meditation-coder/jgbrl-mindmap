@@ -1,0 +1,1 @@
+import{_ as o,r as n,o as t,c,a as r,d as s}from"./app-914d2098.js";const _={},a=s("strong",null," 【「须菩提！于意云何？可以相成就见如来不？」须菩提言：「不也！世尊！不可以相成就得见如来。何以故？如来所说相，即非相。」佛告须菩提：「凡所有相，皆是妄语。若见诸相非相，则非妄语。如是诸相非相，则见如来。」】 ",-1);function d(l,i){const e=n("MindMapPdfViewer");return t(),c("div",null,[a,r(e)])}const m=o(_,[["render",d],["__file","经文05.html.vue"]]);export{m as default};
