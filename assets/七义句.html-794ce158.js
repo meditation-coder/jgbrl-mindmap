@@ -1,1 +1,0 @@
-import{_ as n,r as o,o as t,c as _,a as c}from"./app-914d2098.js";const r={};function a(s,l){const e=o("MindMapPdfViewer");return t(),_("div",null,[c(e)])}const f=n(r,[["render",a],["__file","七义句.html.vue"]]);export{f as default};

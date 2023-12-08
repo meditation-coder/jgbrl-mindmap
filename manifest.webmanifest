@@ -1,0 +1,21 @@
+{
+  "name": "《金刚般若论》学习笔记",
+  "short_name": "《金刚般若论》笔记",
+  "description": "本站分享个人学习《金刚般若论》的思维导图笔记，主要参考了多个金刚经译本和窥基法师的两本经注。愿所有人都能开启智慧，解脱苦惑！（所学典籍主要源自“美國佛教會電腦資訊庫功德會”的网站。）",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#fff",
+  "icons": [
+    {
+      "src": "/images/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
