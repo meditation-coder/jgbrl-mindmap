@@ -1,0 +1,1 @@
+import{_ as o,r as n,o as t,c,a as r,d as s}from"./app-9n_F51M8.js";const _={},a=s("strong",null," 【「须菩提！若有人言：如来若去若来若住若坐若卧，是人不解我所说义。何以故？如来者，无所至去，无所从来，故名如来。】 ",-1);function d(l,i){const e=n("MindMapPdfViewer");return t(),c("div",null,[a,r(e)])}const m=o(_,[["render",d],["__file","经文32.html.vue"]]);export{m as default};
